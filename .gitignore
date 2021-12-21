@@ -1,0 +1,11 @@
+*.csv
+*.txt
+*xlsx
+
+org/
+klaar/
+
+
+__pycache__/
+*.py[cod]
+*$py.class
